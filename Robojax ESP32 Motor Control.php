@@ -137,8 +137,8 @@
     </div><!--row - Robojax.com -->
 
 
-</div><!-- ---- table motor 1 ended -->
-<!-- ---- motor 2 started here ---- -->
+</div><!--table motor 1 ended-->
+<!--motor 2 started here-->
 <h2>Motor 2 Control</h2>
 
 <div class="table">
